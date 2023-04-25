@@ -32,6 +32,6 @@
   "devDependencies": {
     "lodash": "^4.17.15",
     "npmpub": "^4.1.0",
-    "stylelint": "^14.9.1"
+    "stylelint": "^15.6.0"
   }
 }
